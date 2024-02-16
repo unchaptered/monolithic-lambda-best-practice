@@ -1,0 +1,12 @@
+{
+  "name": "monolithic-lambda-best-practice",
+  "version": "1.0.0",
+  "description": "This repository is created for [Inblog/Unchaptered - Microservices Lambda Best Practice with CI/CD, without Framework][Blog References]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "unchaptered",
+  "license": "ISC"
+}
